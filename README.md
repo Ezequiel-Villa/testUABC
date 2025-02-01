@@ -1,45 +1,30 @@
-# Proyecto: Perfil Personal
+# 📌 Proyecto: Perfil Personal  
 
-## Descripción
+## 📝 Descripción  
 
-### Este proyecto consiste en un sitio web personal desarrollado con HTML y CSS. La página presenta información sobre el desarrollador, sus proyectos y datos de contacto. Está estructurado en tres secciones principales:
+Este proyecto consiste en un **sitio web personal** desarrollado con **HTML y CSS**. Su propósito es presentar información sobre el desarrollador, sus proyectos y datos de contacto.  
 
-### Página principal: Presenta información básica sobre el desarrollador, incluyendo una breve descripción y sus hobbies.
+### 🏗️ Estructura del sitio:  
+- **Página Principal (`index.html`)**: Presenta información básica sobre el desarrollador, incluyendo una breve biografía y sus hobbies.  
+- **Página de Proyectos (`proyects.html`)**: Muestra una lista de proyectos realizados.  
+- **Página de Contacto (`contact.html`)**: Proporciona información de contacto.  
 
-### Proyectos: Muestra una lista de algunos proyectos realizados.
+## 🚀 Tecnologías Utilizadas  
 
-### Contacto: Proporciona información de contacto.
+- **HTML5** 🏗️  
+- **CSS3** 🎨  
 
-## Tecnologías utilizadas
+## 🎯 Funcionalidades  
 
-### HTML5 ###
+✅ Diseño estructurado con secciones bien definidas.  
+✅ Estilos aplicados mediante **CSS**.  
+✅ Navegación entre páginas mediante **enlaces internos**.  
 
-### CSS3 ###
+## 🛠️ Cómo Ejecutar el Proyecto  
 
-## Estructura del proyecto
+1️⃣ **Descargar o clonar este repositorio.**  
+2️⃣ **Abrir `index.html` en un navegador web.**  
 
-### index.html: Página principal con información del usuario.
+## 👨‍💻 Autor  
 
-### proyects.html: Página con una lista de proyectos.
-
-### contact.html: Página con información de contacto.
-
-### mystyle.css: Archivo CSS para la estilización del sitio.
-
-## Funcionalidades
-
-### Diseño estructurado con secciones bien definidas.
-
-### Estilos aplicados mediante CSS.
-
-### Navegación entre páginas mediante enlaces internos.
-
-## Cómo ejecutar el proyecto
-
-### Descargar o clonar este repositorio.
-
-## Abrir index.html en un navegador web.
-
-## Autor
-
-### Ezequiel Villa González
+**Ezequiel Villa González**  
