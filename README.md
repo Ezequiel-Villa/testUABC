@@ -6,7 +6,7 @@ Este proyecto consiste en un **sitio web personal** desarrollado con **HTML y CS
 
 ### 🏗️ Estructura del sitio:  
 - **Página Principal (`index.html`)**: Presenta información básica sobre el desarrollador, incluyendo una breve biografía y sus hobbies.  
-- **Página de Proyectos (`proyects.html`)**: Muestra una lista de proyectos realizados.  
+- **Página de Proyectos (`projects.html`)**: Muestra una lista de proyectos realizados.  
 - **Página de Contacto (`contact.html`)**: Proporciona información de contacto.  
 
 ## 🚀 Tecnologías Utilizadas  
