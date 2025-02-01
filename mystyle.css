@@ -1,0 +1,76 @@
+/*global*/
+*{
+    margin: 0px;
+    padding:10px 0 10px 0px ;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #969fa8;
+}
+p{
+    line-height:2;
+    color: black
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+/*utilities*/
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.container h2{
+    color: rgb(7, 62, 37);
+    font-style: italic;
+    padding-bottom: 10px;
+}
+/*header*/  
+.header-init{
+    background-color: #dedede;
+    height: 150px;
+    text-align: center;
+    border: 2px solid;
+}
+.header-init a{
+    color: rgb(15,82,118);
+    font-weight: bold;
+}
+.header-init a:hover{
+    text-decoration: underline;
+    color: red;
+}
+/*main*/
+.hobbies{
+    background-color: rgba(86, 105, 115, 0.633);
+    padding-left: 20px;
+    text-align: left;
+    color: rgb(108, 57, 33);
+    border : 1px solid;
+}
+/*proyects*/
+.proyects{
+    padding-left: 20px;
+    text-align: left;
+    color: rgb(108, 37, 37);
+    border: 1px solid;
+}
+/*header pagina 2*/
+.pag2{
+    background-color: #dedede;
+    height: 55px;
+    text-align: center;
+}
+/*header pagina 3*/
+/*style image*/
+.image{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 100%;
+}
+
